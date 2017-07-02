@@ -29,7 +29,8 @@ class LinkedList
         return nn;  
     }
 
-    //////////////////////////////////////////////////////////////////////
+ 
+    // Addition Operations 
 
     void addAtBeginning(int data)
     {
@@ -91,7 +92,8 @@ class LinkedList
         }
     }
 
-    //////////////////////////////////////////////////////////////////////
+
+    // Deletion Operations
 
     void deleteAtBeginning()
     {
@@ -158,7 +160,6 @@ class LinkedList
         }
     }
 
-    //////////////////////////////////////////////////////////////////////
 
     void print()
     {
