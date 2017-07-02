@@ -190,7 +190,7 @@ int main()
 		 << "4. Delete at beginning" << endl 
 		 << "5. Delete at end" << endl 
 		 << "6. Delete at position" << endl
-		 << "7. Exit" << endl;
+		 << "7. Exit (or any other number)" << endl;
 
 	while (1)
 	{
@@ -242,7 +242,7 @@ int main()
 				exit(1);
 
 			default:
-				cout << "Invalid choice : Exiting..." << endl;
+				cout << "Exiting..." << endl;
 				exit(1);
 		}
 	}
