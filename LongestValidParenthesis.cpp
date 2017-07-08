@@ -1,4 +1,4 @@
-// Credit : Visit http://www.geeksforgeeks.org/length-of-the-longest-valid-substring/ for more information.
+// Visit http://www.geeksforgeeks.org/length-of-the-longest-valid-substring/ for more information.
 
 #include <iostream>
 #include <string>
