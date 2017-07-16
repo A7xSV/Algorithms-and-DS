@@ -41,7 +41,7 @@ bool isBalanced(string s)
 
 int main()
 {
-    cout << "Check balancing for '(, '), '{', '}', '[', ']' " << endl;
+    cout << "Check balancing for '(', ')', '{', '}', '[', ']' " << endl;
     cout << "Enter string to check : ";
     
     string s;
