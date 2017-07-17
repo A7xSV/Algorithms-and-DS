@@ -1,3 +1,5 @@
+// Question link : https://www.hackerrank.com/contests/w33/challenges/twin-arrays
+
 #include <bits/stdc++.h>
 
 using namespace std;
