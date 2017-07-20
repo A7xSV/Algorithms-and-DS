@@ -17,21 +17,21 @@ int partition(int *a, int start, int end)
     {
         if (a[i] <= pivot)
         {
-            swap (&a[pi], &a[i]);
+            swap(&a[pi], &a[i]);
             pi++;
         }
     }
-    swap (&a[pi], &a[end]);
+    swap(&a[pi], &a[end]);
     return pi;
 }
 
-void quicksort (int a[], int start, int end)
+void quicksort(int a[], int start, int end)
 {
     if (start < end)
     {
-        int pi = partition (a, start, end);
-        quicksort (a, start, pi - 1);
-        quicksort (a, pi + 1, end);
+        int pi = partition(a, start, end);
+        quicksort(a, start, pi - 1);
+        quicksort(a, pi + 1, end);
     }
 }
 
@@ -54,4 +54,3 @@ int main()
     printf ("\n");
     return 0;
 }
-
