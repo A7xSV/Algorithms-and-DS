@@ -1,3 +1,5 @@
+// Question link : https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
+
 bool hasCycle(Node* head) 
 {
     Node *sp = head;
