@@ -15,5 +15,7 @@ A repository for various codes, questions and their solutions majorly based on A
 <br>
 <a href="https://github.com/A7xSV/Algorithms-and-DS/blob/master/QuickSort.c">QuickSort.c</a> : An implementation of the Quick Sort algorithm
 <br>
+<a href="https://github.com/A7xSV/Algorithms-and-DS/blob/master/RemoveDuplicates.cpp">RemoveDuplicates.cpp</a>: Remove Redundancy in a Linked List 
+<br>
 <a href="https://github.com/A7xSV/Algorithms-and-DS/blob/master/TwinArrays.cpp">TwinArrays.cpp</a> : Minimum sum from two arrays such that chosen elements have different indices
 <br>
