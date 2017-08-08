@@ -1,6 +1,4 @@
 # Algorithms-and-DS
-A repository for various codes, questions and their solutions majorly based on Algorithms and Data Structures.
-| . | []() |  |
 
 | #     |  Name  | Description |
 | --- |  --- | --------- |
