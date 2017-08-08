@@ -1,21 +1,15 @@
 # Algorithms-and-DS
 A repository for various codes, questions and their solutions majorly based on Algorithms and Data Structures.
+| . | []() |  |
 
-<a href="https://github.com/A7xSV/Algorithms-and-DS/blob/master/BalancedParentheses.cpp">BalancedParentheses.cpp</a> : Check if the entered expression contains balanced parenthesis
-<br>
-<a href="https://github.com/A7xSV/Algorithms-and-DS/blob/master/CheckLLCycle.cpp">CheckLLCycle.cpp</a> : Check if the specified Linked List contains a cycle
-<br>
-<a href="https://github.com/A7xSV/Algorithms-and-DS/blob/master/LeftRotation.cpp">LeftRotation.cpp</a> : Vector rotation example
-<br>
-<a href="https://github.com/A7xSV/Algorithms-and-DS/blob/master/LinkedList.cpp">LinkedList.cpp</a> : Basic Linked List operations
-<br>
-<a href="https://github.com/A7xSV/Algorithms-and-DS/blob/master/LinkedListReverse.cpp">LinkedListReverse.cpp</a> : Reverse a Linked List (Iterative solution)
-<br>
-<a href="https://github.com/A7xSV/Algorithms-and-DS/blob/master/LongestValidParenthesis.cpp">LongestValidParenthesis.cpp</a> : Determine the length of the longest valid parenthesis 
-<br>
-<a href="https://github.com/A7xSV/Algorithms-and-DS/blob/master/QuickSort.c">QuickSort.c</a> : An implementation of the Quick Sort algorithm
-<br>
-<a href="https://github.com/A7xSV/Algorithms-and-DS/blob/master/RemoveDuplicates.cpp">RemoveDuplicates.cpp</a>: Remove Redundancy in a Linked List 
-<br>
-<a href="https://github.com/A7xSV/Algorithms-and-DS/blob/master/TwinArrays.cpp">TwinArrays.cpp</a> : Minimum sum from two arrays such that chosen elements have different indices
-<br>
+| #     |  Name  | Description |
+| --- |  --- | --------- |
+| 1. | [BalancedParentheses.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BalancedParentheses.cpp) | Check if the entered expression contains balanced parenthesis |
+| 2. | [CheckLLCycle.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/CheckLLCycle.cpp) | Check if the specified Linked List contains a cycle |
+| 3. | [LeftRotation.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LeftRotation.cpp) | Vector rotation example |
+| 4. | [LinkedList.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LinkedList.cpp) | Basic Linked List operations |
+| 5. | [LinkedListReverse.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LinkedListReverse.cpp) | Reverse a Linked List (Iterative solution) |
+| 6. | [LongestValidParenthesis.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LongestValidParenthesis.cpp) | Determine the length of the longest valid parenthesis |
+| 7. | [QuickSort.c](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/QuickSort.c) | An implementation of the Quick Sort algorithm |
+| 8. | [RemoveDuplicates.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/RemoveDuplicates.cpp) | Remove Redundancy in a Linked List |
+| 9. | [TwinArrays.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/TwinArrays.cpp) | Minimum sum from two arrays such that chosen elements have different indices |
