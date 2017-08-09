@@ -10,4 +10,4 @@
 | 6. | [LongestValidParenthesis.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LongestValidParenthesis.cpp) | Determine the length of the longest valid parenthesis |
 | 7. | [QuickSort.c](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/QuickSort.c) | An implementation of the Quick Sort algorithm |
 | 8. | [RemoveDuplicates.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/RemoveDuplicates.cpp) | Remove Redundancy in a Linked List |
-| 9. | [TwinArrays.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/TwinArrays.cpp) | Minimum sum from two arrays such that chosen elements have different indices |
+| 9. | [TwinArrays.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/TwinArrays.cpp) | Minimum sum from two arrays such that elements have different indices |
