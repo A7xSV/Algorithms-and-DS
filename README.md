@@ -4,7 +4,7 @@
 | --- |  --- | --------- |
 | 1. | [BalancedParentheses.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BalancedParentheses.cpp) | Check if the entered expression contains balanced parenthesis |
 | 2. | [LL-LinkedList.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LL-LinkedList.cpp) | Basic Linked List operations |
-| 3. | [LLCheckCycle.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LLCheckLLCycle.cpp) | Check if the specified Linked List contains a cycle |
+| 3. | [LLCheckCycle.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LLCheckCycle.cpp) | Check if the specified Linked List contains a cycle |
 | 4. | [LLRemoveDuplicates.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LLRemoveDuplicates.cpp) | Remove Redundancy in a Linked List |
 | 5. | [LLReverse.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LLReverse.cpp) | Reverse a Linked List (Iterative solution) |
 | 6. | [LeftRotation.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LeftRotation.cpp) | Vector rotation example |
