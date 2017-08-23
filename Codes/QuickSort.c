@@ -25,7 +25,7 @@ int partition(int *a, int start, int end)
     return pi;
 }
 
-void quicksort(int a[], int start, int end)
+void quicksort(int *a, int start, int end)
 {
     if (start < end)
     {
