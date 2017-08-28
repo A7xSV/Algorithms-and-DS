@@ -3,6 +3,7 @@
 |  Name  | Description |
 |  ----- | ----------- |
 | [BST-Lca.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BST-Lca.cpp) | Find the least common ancestor of two elements|
+| [BST-LevelOrder.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BST-LevelOrder.cpp) | Level Order traversal of a BST|
 | [BST.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BST.cpp) | Binary search tree and its operations|
 | [BalancedParentheses.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BalancedParentheses.cpp) | Check if the entered expression contains balanced parenthesis |
 | [LL-LinkedList.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LL-LinkedList.cpp) | Basic Linked List operations |
