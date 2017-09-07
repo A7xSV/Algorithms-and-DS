@@ -11,6 +11,7 @@
 | [LLCheckCycle.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LLCheckCycle.cpp) | Check if the specified Linked List contains a cycle |
 | [LLRemoveDuplicates.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LLRemoveDuplicates.cpp) | Remove Redundancy in a Linked List |
 | [LLReverse.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LLReverse.cpp) | Reverse a Linked List (Iterative solution) |
+| [LLReverseR.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LLReverseR.cpp) | Reverse a Linked List (Recursive solution) |
 | [LeftRotation.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LeftRotation.cpp) | Vector rotation example |
 | [LongestValidParenthesis.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LongestValidParenthesis.cpp) | Determine the length of the longest valid parenthesis |
 | [MergeSort.c](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/MergeSort.c) | An implementation of the Merge Sort algorithm |
