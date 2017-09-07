@@ -1,5 +1,4 @@
 // Question Link: https://www.hackerrank.com/challenges/reverse-a-linked-list
-// This is just a function
 
 Node* Reverse(Node *head)
 {
