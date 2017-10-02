@@ -2,6 +2,7 @@
 
 |  Name  | Description |
 |  ----- | ----------- |
+| [BST-EvenOddSum.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BST-EvenOddSum.cpp) | Even and odd row sum |
 | [BST-IsBst.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BST-IsBst.cpp) | Check BST validity |
 | [BST-Lca.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BST-Lca.cpp) | Find the least common ancestor of two elements |
 | [BST-LevelOrder.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BST-LevelOrder.cpp) | Level Order traversal of a BST |
