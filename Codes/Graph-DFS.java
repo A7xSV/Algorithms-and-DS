@@ -42,7 +42,6 @@ class DFS
 	public static void main(String[] args) 
 	{
 		Graph g = new Graph(13);
-
 		g.addEdge(0, 5);
         g.addEdge(4, 3);
         g.addEdge(0, 1);
@@ -56,7 +55,7 @@ class DFS
         g.addEdge(7, 8);
         g.addEdge(9, 11);
         g.addEdge(5, 3);	
-
+		
         g.dfs(0);
         System.out.println();
 
