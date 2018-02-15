@@ -8,6 +8,7 @@
 | [BST-LevelOrder.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BST-LevelOrder.cpp) | Level Order traversal of a BST |
 | [BST.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BST.cpp) | Binary search tree and its operations |
 | [BalancedParentheses.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/BalancedParentheses.cpp) | Check if the entered expression contains balanced parenthesis |
+| [Graph-DFS.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/Graph-DFS.java) | Graph API, DFS implementation |
 | [Graph-Islands.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/Graph-Islands.cpp) | Connected cell in a grid solution, DFS implementation |
 | [LL-LinkedList.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LL-LinkedList.cpp) | Basic Linked List operations |
 | [LLCheckCycle.cpp](https://github.com/A7xSV/Algorithms-and-DS/blob/master/Codes/LLCheckCycle.cpp) | Check if the specified Linked List contains a cycle |
